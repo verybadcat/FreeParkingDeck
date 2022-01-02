@@ -1,0 +1,33 @@
+
+If you have Charity and Hidden Stash in your hand, and you face a rent you can't pay without them, you can play either one, both, or neither.
+Rent-multiplying cards. If one card multiplies a rent by 5, and another multiplies it by 10, the rent is multiplied by 50. A free landing would still reduce it to zero.
+Lumber Shortage + Construction Business -- you still collect $20 for each house, not $40.
+Three's a Crowd + Re-roll. Suppose you play Three's a Crowd. You roll three dice, and they total 5. You decide you don't like it, so you play re-roll. This time you roll "4 4 4". This is triples, so you immediately win the game.
+
+General rules -- 
+Keeper cards -- when you play one of these, it becomes yours. You put it in front of you, much like a title deed. Its effect lasts for the rest of the game. You can trade keepers that are in play, just
+as you can trade title deeds. But trading Rent Inflation won't change anything as it always works for everyone. 
+  If you go bankrupt with keepers in play, the person you go bankrupt to gets the keepers.
+  Also, once a keeper is out there, there is no way to dicard it unless the card itself provides one. In the case of Lumber Shortage or Rent Inflation, it will remain out there for the ret of the game.
+Unless the card says otherwise, you can only play it during your own turn. For example, on your turn, you might teleport someone else's piece. But it's still your turn.
+
+Comments and examples --
+Community Choice and Good Chances are all or nothing. For example, suppose you draw a card that says "Advance to go. Collect $200." You can't choose to collect $200 without advancing to Go.
+Construction Business -- This won't give you money until someone else buys houses and/or hotels. If someone buys three hotels all at once on a monopoly, you would collect $300. But if it already had 5 houses, you would instead collect $200.
+  You can play this when someone is about to buy houses or hotels. It will give you money from their purchase. Once you play the card, they are allowed to change their mind about buying.
+Keepers in general -- the words "you" and "your" refer to the current owner of the card.
+Lumber shortage -- much like construction business, you can play when another player is about to buy houses or hotels. Their cost is doubled. But after you play it, they are allowed to change their mind about buying.
+Hidden Stash -- this does NOT count for income tax.
+Potemkin Village: If you have this, and you own Boardwalk with no houses, the rent would be $200, regardless of whether or not you own Park Place. But if Boardwalk is mortgaged the rent would still be zero.
+Rent-multiplying cards -- the rent for mortgaged properties is still zero. As this is being written, here is the biggest possible rent.
+You own both utilities, and you have Big Power and Geothermal Vents. Someone has played Rent Inflation. Then supose someone plays Three's a crowd. They rull 17 and land on one of your utilities.
+The rent is $17,000.
+  Some rent-multiplying cards work only on properties owned by the player who owns the card. At least one works on everyone. Read the cards.
+Skyscraper -- Boardwalk with one hotel would still have a rent of $2000. But with two hotels, it would be $4000.
+If you play Broken Window, you go to jail and your turn ends. But if someone then plays Extra Turn on you, you would then take another turn.
+If you play Sleep In, you can still buy houses and hotels. If someone then plays Extra Turn, you will go again.
+Valet -- if a player, including you, rolls the dice without paying to get rid of this, the only way they can decide to get rid of it later in their turn is if they are about to roll the dice again.
+Valet -- any other keepers that are already out there still count. If someone gets rid of the Valet, they can then play other Free Parking cards normally.
+For example, if someone has a Broken Window in hand, and a Valet is out there, they discard the Valet, paying if necessary, then play the Broken Window, at which point they would go to jail and would not roll the dice after all.
+
+

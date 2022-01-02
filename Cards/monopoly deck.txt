@@ -1,0 +1,33 @@
+Free landing. Avoid paying rent, one time only.
+Eminent domain. After you land on someone else's property, pay rent as usual. Then buy it at double price. Cannot break up a monopoly.
+Greater eminent domain. After you land on someone else's property, pay rent as usual. Then buy it at four times the price. Can break up a monopoly. If the owner has houses or hotels on the monopoly, they must sell them before you buy the property.
+Building spree. Choose a monopoly you own. For each property, if it has 4 houses, promote to a hotel. If it has 0-3 houses, add a house. You don't pay.
+Tax time. Every player, including you, pays half their money to the bank.
+Sleep in. Play before you roll the dice. Don't roll the dice or move. Collect $100.
+Broken window. Play as you are about to start your turn. Instead of taking your turn, you go to jail and your turn is over.
+Slow down. Play before you roll the dice. This turn, you roll one die only.
+Pick one. Play after you roll the dice. Choose one die. Move by that number only.
+Three's a Crowd. Play before you roll the dice. roll three dice this turn only. Move by the total of all three dice. Nothing is doubles. But if you roll triples, you win the game immediately.
+Re-roll. Play after you roll the dice. Ignore your roll. Re-roll and use the new roll instead.
+Debt relief. Unmortgage one property for free, one time only.
+Extra turn. Play at the end of any player's turn, including your own. They take another turn.
+Backwards. Play before you roll the dice. This turn only, you move backwards the number you roll instead of forwards. Passing go while moving backward still collects $200.
+Teleport. Move any token to a different space of your choice. The player didn't "land" there. They just start their turn at the new space.
+Hidden stash. At any time, you can play this card and collect $200.
+Tornado. Play at the start of your turn, before you do anything else. All houses and hotels are removed from the board. No one collects money for them. (two in deck)
+Charity. Play only when you have landed on a property and the rent is more than your money, including money you can raise by mortgaging or selling back. Collect $2000 from the bank. You still have to pay the rent.
+Look over there! Play after you roll the dice. Move someone else's token insted of your own. Neither you nor they "land" anywhere. Their token is simply moved. Your turn then continues.
+
+Skyscraper. Keeper. Pick a monopoly you own. You can continue to improve the monopoly up to a maximum of two hotels. Add the rents. For example, Boardwalk with two houses and a hotel would be $2600. If you lose this card, you have to sell back to one hotel.
+Geothermal vents. Keeper. You collect five times the usual rent on your utilities. All rent-multiplying cards are cumulative.
+Big power. Keeper. You collect ten times the usual rent on your utilities. All rent-multiplying cards are cumulative.
+Railroad trust. Keeper. You collect double rent on your railroads.  All rent-multiplying cards are cumulative.
+Grand Central Station. Keeper. You collect triple rent on your railroads. All rent-multiplying cards are cumulative.
+Rent Inflation. Keeper. It costs $300 to play this card. For the rest off the game, all rents are doubled for everyone. All rent-multiplying cards are cumulative.
+Potemkin Village. Keeper. Your unimproved properties charge rent as if they had one house. 
+Good Chances. Keeper. Whenever you draw a chance card, it is optional. You can choose to do what it says or to ignore it. 
+Community Choice. Keeper. Whenever you draw a community chest card, it is optional. You can choose to do what it says or to ignore it.
+Lumber Shortage. Keeper. Play when anyone is trying to buy houses or hotels. House and hotel prices are doubled for everyone. They may change their mind about their purchase. This remains in place for the rest of the game.
+Construction Business. Keeper. Play any time. Any time a player other than you buys a house or promotes 4 houses to a hotel, you collect $20 of the purchase price. 
+Valet. Keeper. No one can play Free Parking cards. On your turn, before you roll the dice, you can put this on the bottom of the deck for free. On their turn, before rolling the dice,
+any other player may put it on the bottom of the deck by paying you $400.

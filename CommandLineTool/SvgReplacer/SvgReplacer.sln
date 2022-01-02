@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvgReplacer", "SvgReplacer\SvgReplacer.csproj", "{C79A5F8D-9085-4806-9C9B-8BCC51E9D10B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C79A5F8D-9085-4806-9C9B-8BCC51E9D10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79A5F8D-9085-4806-9C9B-8BCC51E9D10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79A5F8D-9085-4806-9C9B-8BCC51E9D10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79A5F8D-9085-4806-9C9B-8BCC51E9D10B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26026A90-81AA-4EFC-924C-B518D1C48234}
+	EndGlobalSection
+EndGlobal
