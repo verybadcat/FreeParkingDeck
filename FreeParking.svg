@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="816" height="1110" viewBox="0, 0, 816, 1110">
+  <g id="Layer_1">
+    <text transform="matrix(1, 0, 0, 1, 408, 120)">
+      <tspan x="-24.636" y="-27" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">Title</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 408, 605)">
+      <tspan x="-20.611" y="-355" font-family="HelveticaNeue-Bold" font-size="21" fill="#000000">Text</tspan>
+    </text>
+  </g>
+</svg>
